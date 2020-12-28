@@ -20,7 +20,7 @@
             "tsConfig": "tsconfig.app.json",
             "aot": false,
             "assets": [
-              "src/manifest.webapp",
+              "src/manifest.webmanifest",
               "src/assets"
             ],
             "styles": [
